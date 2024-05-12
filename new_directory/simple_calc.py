@@ -1,0 +1,6 @@
+number1 = input("Input the 1st number: ")
+number2 = input("Input the 2nd number: ")
+add = float(number1) + float(number2)
+subtract = float(number1) - float(number2)
+print(f"{number1} + {number2} = {add}")
+print(f"{number1} - {number2} = {subtract}")

@@ -15,4 +15,4 @@ print('he was ' + str(character_age) + ' years old.')
 
 character_name = 'Mike'
 print('He really liked the name ' + character_name + ',')
-print("but did't like being " + str(character_age) + '.')
+print("but did not like being " + str(character_age) + '.')
